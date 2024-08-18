@@ -15,7 +15,7 @@ public class App {
         meuIphone.atender();
         meuIphone.iniciarCorreioDeVoz();
 
-        meuIphone.exibirPagina("https://www.youtube.com");
+        meuIphone.exibirPagina("https://www.youtube.com/watch?v=1G4isv_Fylg");
         meuIphone.adicionarNovaAba();
         meuIphone.atualizarPagina();
     }
