@@ -1,0 +1,7 @@
+package org.iphone.repository;
+
+public interface Telefone {
+    void ligar(String numero);
+    void atender();
+    void iniciarCorreioDeVoz();
+}
